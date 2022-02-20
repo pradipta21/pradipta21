@@ -12,3 +12,13 @@
 - :e-mail: saloipradipta@gmail.com
 - :derelict_house: Guwahati, Assam
 
+## Reach me 
+If you liked the profile and wants to know more about me or connect with me in other platforms.
+
+<a href="https://www.facebook.com/pradiptaKalita"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://www.instagram.com/saloi_pradipta/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/pradipta-saloi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+<a href="https://www.hackerrank.com/saloipradipta"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/></a>
+
+
+
