@@ -1,5 +1,2 @@
-<p align="center">
-<h1>Hi there :wave:, I am Pradipta Saloi</h1>
-</p>
-#
+<h1><center>Hi there :wave:, I am Pradipta Saloi</center></h1>
 
